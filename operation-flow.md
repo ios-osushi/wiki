@@ -52,8 +52,10 @@ GitHub Pagesにホスティングされたら、公式アカウント（[@ios_os
 内容は以下とします。
 
 ```
-999 YYYY-MM-DD
+iOS関連ニュースの第999回をお届けします🍣
+
 {description}
+
 https://ios-osushi.github.io/posts/999-YYYYMMDD/
 #ios_osushi
 ```
@@ -61,8 +63,10 @@ https://ios-osushi.github.io/posts/999-YYYYMMDD/
 例
 
 ```
-001 2022-04-04
+iOS関連ニュースの第001回をお届けします🍣
+
 swift-async-algorithms プロトタイプリリース、リーダーアプリのアカウント管理についての更新、iOS 15.4.1リリース、iPadOS 15.4.1リリース、macOS 12.3.1リリース、watchOS 8.5.1リリース
+
 https://ios-osushi.github.io/posts/001-20220404/
 #ios_osushi
 ```
