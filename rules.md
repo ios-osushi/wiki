@@ -32,3 +32,9 @@
   - 厳選せずに紹介するのは以下のデメリットがあるため
     - 本当に伝えたい情報が見つけづらくなる
     - 執筆のコストが上がる
+- できる限りURLはテキストリンクにせず、生で載せる
+  - URLが見えたほうが安心するため
+  - 例  
+    ```
+    [https://github.com/apple/swift-argument-parser/releases/tag/1.1.3](https://github.com/apple/swift-argument-parser/releases/tag/1.1.3)
+    ```
